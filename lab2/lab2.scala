@@ -138,6 +138,7 @@ Permissive.write.format("json").mode("overwrite").save("/FileStore/tables/grades
 val marks = spark.read.format("json").load("/FileStore/tables/grades.json")
 display(marks)
 
+//w docelowych sciezkach znajduja sie zseriazlizowane dane
 
 // COMMAND ----------
 
