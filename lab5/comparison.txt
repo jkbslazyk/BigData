@@ -1,0 +1,27 @@
+IoT Integration
+https://docs.microsoft.com/pl-pl/azure/iot-fundamentals/iot-introduction
+https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html
+
+Data Stream
+https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about
+https://docs.aws.amazon.com/streams/latest/dev/introduction.html
+
+Data lake
+https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-overview
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+
+ETL Process
+https://docs.microsoft.com/pl-pl/azure/databricks/scenarios/what-is-azure-databricks
+https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html
+
+Machine Learning
+https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning
+https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
+
+Back-end
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
+API Gateway
+https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
