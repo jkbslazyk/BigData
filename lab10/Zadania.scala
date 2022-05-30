@@ -89,7 +89,7 @@ val sqlZorderQuery = timeIt(spark.sql("select * from TabelaRaw where StockCode =
 // COMMAND ----------
 
 // TODO
-val poZorderQuery = timeIt(spark.sql("SELECT * FROOM retail WHERE StockCode = '22301'").collect())
+val poZorderQuery = timeIt(spark.sql("SELECT * FROM retail WHERE StockCode = '22301'").collect())
 
 // COMMAND ----------
 
